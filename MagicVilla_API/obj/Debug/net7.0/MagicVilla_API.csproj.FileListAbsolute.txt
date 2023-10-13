@@ -5,6 +5,8 @@ D:\Proyectos\MagicVilla_API\MagicVilla_API\bin\Debug\net7.0\MagicVilla_API.deps.
 D:\Proyectos\MagicVilla_API\MagicVilla_API\bin\Debug\net7.0\MagicVilla_API.runtimeconfig.json
 D:\Proyectos\MagicVilla_API\MagicVilla_API\bin\Debug\net7.0\MagicVilla_API.dll
 D:\Proyectos\MagicVilla_API\MagicVilla_API\bin\Debug\net7.0\MagicVilla_API.pdb
+D:\Proyectos\MagicVilla_API\MagicVilla_API\bin\Debug\net7.0\AutoMapper.dll
+D:\Proyectos\MagicVilla_API\MagicVilla_API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\Proyectos\MagicVilla_API\MagicVilla_API\bin\Debug\net7.0\Azure.Core.dll
 D:\Proyectos\MagicVilla_API\MagicVilla_API\bin\Debug\net7.0\Azure.Identity.dll
 D:\Proyectos\MagicVilla_API\MagicVilla_API\bin\Debug\net7.0\Humanizer.dll
